@@ -1,7 +1,5 @@
 # Système Multi-Agents Médical — Orientation Clinique Préliminaire
 
-> ⚠️ **Avertissement** : Ce système est un exercice académique réalisé dans le cadre du module Systèmes Multi-Agents (Pr. Mohamed YOUSSFI). Il ne constitue **pas un dispositif médical** et **ne fournit aucun diagnostic définitif**. Il propose uniquement une orientation clinique préliminaire, une synthèse clinique et une recommandation intermédiaire, toujours soumises à validation par un médecin traitant. **Ce système ne remplace pas une consultation médicale.**
-
 ---
 
 ## 1. Présentation du projet
